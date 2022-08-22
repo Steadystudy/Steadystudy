@@ -6,6 +6,7 @@ Email : sgmin206@naver.com
 
 현재 프로그래머스 프론트엔드 데브코스에서 열심히 배우고 민상기라고 합니다.
 
+✍️[이력서](https://admitted-vinyl-369.notion.site/6be475c5250d4dbb934d280cfe8e3833)
 
 ![Steadystudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steadystudy&show_icons=true&theme=dracula)
 
